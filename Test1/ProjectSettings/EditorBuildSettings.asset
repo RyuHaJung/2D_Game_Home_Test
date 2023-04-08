@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scenes/02.ManuScene.unity
     guid: d144373ac2eccc34585d9465fcd9ed01
+  - enabled: 1
+    path: Assets/01.Scenes/03.HamstarMaze.unity
+    guid: 7cff258c4c98c1046b848f06cd5ab485
+  - enabled: 1
+    path: Assets/01.Scenes/04.MazeGame.unity
+    guid: ab61f2226793173419581d5b85d2821c
+  - enabled: 1
+    path: Assets/01.Scenes/05.MazeGame 1.unity
+    guid: 3d9577755161da84eb9213d1fbd6ee79
   m_configObjects: {}
