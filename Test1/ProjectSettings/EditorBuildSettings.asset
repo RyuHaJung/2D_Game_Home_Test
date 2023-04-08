@@ -15,9 +15,12 @@ EditorBuildSettings:
     path: Assets/01.Scenes/03.HamstarMaze.unity
     guid: 7cff258c4c98c1046b848f06cd5ab485
   - enabled: 1
+    path: Assets/01.Scenes/04.EMazeGame.unity
+    guid: 0c47672c534a8f947ac8b74c3463730c
+  - enabled: 1
     path: Assets/01.Scenes/05.NMazeGame.unity
     guid: ab61f2226793173419581d5b85d2821c
   - enabled: 1
-    path: Assets/01.Scenes/05.MazeGame 1.unity
-    guid: 3d9577755161da84eb9213d1fbd6ee79
+    path: Assets/01.Scenes/06.HMazeGame.unity
+    guid: a924c864a62e6b149b819c63a4dc9283
   m_configObjects: {}
