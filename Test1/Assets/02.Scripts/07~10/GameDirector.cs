@@ -8,13 +8,13 @@ public class GameDirector : MonoBehaviour
 {
     GameObject hpGauge;
     public GameObject gameOver_Obj;
-    //GameObject Text;
+    
 
     // Start is called before the first frame update
     void Start()
     {
         this.hpGauge = GameObject.Find("hpGauge");
-        //this.Text = GameObject.Find("Text");
+        
     }
     public void DecreaseHp()
     {
@@ -25,6 +25,17 @@ public class GameDirector : MonoBehaviour
             
         }
     }
+
+    public void CreaseHp()
+    {
+        this.hpGauge.GetComponent<Image>().fillAmount += 0.1f;
+        if (this.hpGauge.GetComponent<Image>().fillAmount <= 0)
+        {
+            gameOver_Obj.SetActive(true);
+
+        }
+    }
+
 
     public void Restart()
     {
