@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public float timeLimit = 10f;
+    public float timeLimit = 30f;
     private float timeElapsed = 0f;
     // Start is called before the first frame update
     void Start()
