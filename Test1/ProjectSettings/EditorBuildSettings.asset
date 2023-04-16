@@ -23,4 +23,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scenes/06.HMazeGame.unity
     guid: a924c864a62e6b149b819c63a4dc9283
+  - enabled: 1
+    path: Assets/01.Scenes/07ChickAvoidingPoopGame.unity
+    guid: 3dfe0a60455a1454e9f3547717fd7a05
+  - enabled: 1
+    path: Assets/01.Scenes/08ChickAvoidingPoopGame.unity
+    guid: 2dac1014f2fb46b4bb05c8959d171112
+  - enabled: 1
+    path: Assets/01.Scenes/09ChickAvoidingPoopGame 1.unity
+    guid: 235a8702df07ff24fbc9abaaed45b5b6
+  - enabled: 1
+    path: Assets/01.Scenes/10ChickAvoidingPoopGame 2.unity
+    guid: aa4752ccf68433c4880af8beab9d709f
   m_configObjects: {}

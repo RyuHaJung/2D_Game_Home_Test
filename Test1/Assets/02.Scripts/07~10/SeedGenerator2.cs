@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SeedGenerator : MonoBehaviour
+public class SeedGenerator2 : MonoBehaviour
 {
     public GameObject SeedPrefab;
-    float span = 1.2f;  //박진감 넘치게 하고 싶으면 0.5초로 바꿔라
+    float span = 0.5f;  //박진감 넘치게 하고 싶으면 0.5초로 바꿔라
     float delta = 0;
 
     // Update is called once per frame
