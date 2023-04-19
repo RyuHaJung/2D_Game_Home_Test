@@ -1919,7 +1919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79f00c5af7b4ec949be1302fa0c67e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLimit: 10
+  timeLimit: 15
   endGameButton: {fileID: 2026980258}
 --- !u!4 &2013526712
 Transform:
